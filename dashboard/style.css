@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Inter";
+    color: rgb(63, 62, 62);
+}   
+body{
+   display: block !important;
+   place-items: stretch !important;
+}
