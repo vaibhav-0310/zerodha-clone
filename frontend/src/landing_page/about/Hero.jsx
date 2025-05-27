@@ -3,7 +3,7 @@ import React from "react";
 function Hero() {
   return (
     <div className="container ">
-      <div className="item p-5 text-center">
+      <div className="item p-5 text-center c">
         <h2 className="m-5" style={{ fontSize: "35px" }}>
           We pioneered the discount broking model in India.<br></br>
           Now, we are breaking ground with our technology.

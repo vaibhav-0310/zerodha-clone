@@ -94,3 +94,23 @@ button:focus-visible {
   border-radius: 10px;
   border: none;
 }
+
+.india{
+  border: 1px solid black;
+  padding: 19px;
+  border-right: none;
+  margin-top: 10px;
+}
+
+.agree{
+  font-size: small;
+}
+.top{
+  margin-top: 40px !important;
+}
+.navbar{
+  background-color: white;
+}
+.c{
+  margin-top: 100px !important;
+}

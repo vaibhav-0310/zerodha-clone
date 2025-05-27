@@ -22,10 +22,6 @@ app.get("/allPositions",async(req,res)=>{
   res.json(allPositions);
 });
 
-
-
-
-
 //start
 
 const createDB = async() => {

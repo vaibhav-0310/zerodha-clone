@@ -2,7 +2,7 @@ import React from "react";
 
 function Hero() {
   return (
-    <section className="container-fluid" id="supportHero">
+    <section className="container-fluid c" id="supportHero">
       <div className="p-5 " id="supportWrapper">
         <h4>Support Portal</h4>
         <a href="">Track Tickets</a>
