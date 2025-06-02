@@ -33,7 +33,7 @@
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/zerodha-clone.git
+   git clone https://github.com/vaibhav-0310/zerodha-clone.git
    cd zerodha-clone
    ```
 
