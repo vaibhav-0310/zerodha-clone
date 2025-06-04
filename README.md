@@ -79,6 +79,22 @@
    http://localhost:3000
    ```
 
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/7a7fb3d0-f3f8-4cae-bc69-b7377d42df28)
+
+![image](https://github.com/user-attachments/assets/d7edd448-06c1-41b1-9d5f-4b7bb46ffcf4)
+
+![image](https://github.com/user-attachments/assets/d47ae23c-fe5b-44b6-90c9-86708822c69f)
+
+![image](https://github.com/user-attachments/assets/a178cf23-8611-4c43-ac25-b0d172bf596c)
+
+![image](https://github.com/user-attachments/assets/70cad6ea-9c08-4409-ab8a-19035520e447)
+
+
+
+
+
 ## ✨ Future Features
 
 * Live order placement simulation
